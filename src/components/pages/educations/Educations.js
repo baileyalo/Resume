@@ -29,7 +29,7 @@ export default function Educations() {
 							</tr>
 							<tr>
 								<td>Graduate Certificate- Blockchain Development</td>
-								<td>August 2022</td>
+								<td>April 2022</td>
 								
 							</tr>
 							<tr>
