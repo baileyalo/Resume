@@ -21,10 +21,10 @@ export default function About() {
           <div className="row mt">
             <div className="col xl6 l6 m6 s12">
               <p>
-                <strong>Address:</strong> Toronto, Canada
+                <strong>Address</strong> - Toronto, Canada
               </p>
               <p>
-                <strong>Email:</strong> baileyalwayne@gmail.com
+                <strong>Email</strong> - baileyalwayne@gmail.com
               </p>
             </div>
             <div className="col xl6 l6 m6 s12">

@@ -14,7 +14,6 @@ export default function Profile() {
 				</div>
 				<div className='card-content'>
 					<span className='card-title activator grey-text text-darken-4'>
-						Alwayne Bailey 
 					</span>
 					<p>Blockchain Developer</p>
 				</div>
