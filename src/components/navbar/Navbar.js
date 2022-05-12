@@ -10,7 +10,7 @@ export default class Navbar extends Component {
 					<div className='container'>
 						<div className='nav-wrapper'>
 							<Link to='/' className='brand-logo'>
-								Profile
+								Alwayne Bailey 
 							</Link>
 							<Link to='/' data-target='side-nav' className='sidenav-trigger'>
 								<i className='material-icons'>menu</i>
@@ -34,11 +34,6 @@ export default class Navbar extends Component {
 								<li>
 									<Link to='/educations'>
 										<i class='fas fa-graduation-cap'></i> Educations
-									</Link>
-								</li>
-								<li>
-									<Link to='/portfolios'>
-										<i class='fas fa-address-card'></i> Portfolios
 									</Link>
 								</li>
 							</ul>
