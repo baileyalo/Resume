@@ -50,7 +50,7 @@ export default function Skills() {
           </div>
           <div className="row">
             <div className="col s6">
-              <p><strong>MONGODB</strong></p>
+              <p><strong>MONGO DB</strong></p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
