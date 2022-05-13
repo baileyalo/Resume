@@ -17,6 +17,7 @@ export default function Profile() {
 					</span>
 					<p>Blockchain Developer</p>
 					<p>Full Stack Developer</p>
+					<p>Educator</p>
 				</div>
 				<div className='card-reveal'>
 					<span className='card-title grey-text text-darken-4'>
