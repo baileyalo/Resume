@@ -10,7 +10,7 @@ export default function Skills() {
           </h6>
           <div className="row mt-top">
             <div className="col s6">
-              <p>JAVASCRIPT</p>
+              <p><strong>JAVASCRIPT</strong></p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
@@ -19,27 +19,7 @@ export default function Skills() {
               </div>
             </div>
             <div className="col s6">
-              <p>SOLIDITY</p>
-              <div className="progress grey lighten-1">
-                <div
-                  className="determinate blue"
-                  style={{ width: '80%' }}
-                ></div>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col s6">
-              <p>HTML</p>
-              <div className="progress grey lighten-1">
-                <div
-                  className="determinate blue"
-                  style={{ width: '80%' }}
-                ></div>
-              </div>
-            </div>
-            <div className="col s6">
-              <p>NODE JS</p>
+              <p><strong>SOLIDITY</strong></p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
@@ -50,25 +30,7 @@ export default function Skills() {
           </div>
           <div className="row">
             <div className="col s6">
-              <p>MONGODB</p>
-              <div className="progress grey lighten-1">
-                <div
-                  className="determinate blue"
-                  style={{ width: '70%' }}
-                ></div>
-              </div>
-            </div>
-            <div className="col s6">
-              <p>CSS</p>
-              <div className="progress grey lighten-1">
-                <div
-                  className="determinate blue"
-                  style={{ width: '70%' }}
-                ></div>
-              </div>
-            </div>
-            <div className="col s6">
-              <p>REACT JS</p>
+              <p><strong>HTML</strong></p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
@@ -77,7 +39,36 @@ export default function Skills() {
               </div>
             </div>
             <div className="col s6">
-              <p>TRUFFLE / HARDHAT</p>
+              <p><strong>NODE JS</strong></p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '80%' }}
+                ></div>
+              </div>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col s6">
+              <p><strong>MONGODB</strong></p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '70%' }}
+                ></div>
+              </div>
+            </div>
+            <div className="col s6">
+              <p><strong>CSS</strong></p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '70%' }}
+                ></div>
+              </div>
+            </div>
+            <div className="col s6">
+              <p><strong>REACT JS</strong></p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
@@ -86,7 +77,16 @@ export default function Skills() {
               </div>
             </div>
             <div className="col s6">
-              <p>ETHEREUM / HYPERLEDGER FABRIC / SOLANA / POLKADOT / ALGORAND</p>
+              <p><strong>TRUFFLE / HARDHAT</strong></p>
+              <div className="progress grey lighten-1">
+                <div
+                  className="determinate blue"
+                  style={{ width: '80%' }}
+                ></div>
+              </div>
+            </div>
+            <div className="col s6">
+              <p><strong>ETHEREUM / HYPERLEDGER FABRIC / SOLANA / POLKADOT / ALGORAND</strong></p>
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
