@@ -6,7 +6,7 @@ export default function Skills() {
       <div className="card">
         <div className="card-content">
           <h6>
-            <strong>PROFESSIONAL SKILLS</strong>
+            <strong>TECHNICAL SKILLS</strong>
           </h6>
           <div className="row mt-top">
             <div className="col s6">
