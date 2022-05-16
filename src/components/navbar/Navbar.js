@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
 import 'materialize-css/dist/css/materialize.min.css';
 import { HashLink as Link } from 'react-router-hash-link';
-import './App.css';
 
 export default class Navbar extends Component {
 	render() {
 		return (
 			<>
-				<nav className='navbar navbar-light navbar-dark imageWrapper'>
+				<nav className='light-blue darken-4'>
 					<div className='container'>
 						<div className='nav-wrapper'>
 							<Link to='/' className='brand-logo'>
