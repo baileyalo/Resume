@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import 'materialize-css/dist/css/materialize.min.css';
 import { HashLink as Link } from 'react-router-hash-link';
+import './App.css';
 
 export default class Navbar extends Component {
 	render() {
