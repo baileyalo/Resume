@@ -13,5 +13,5 @@ nav.imageWrapper div.img {
   z-index: 0;
   max-height: 70vh;
   background-size: cover;
-  background-image: url('../../../images/background.jpg';); //replace background, wrap in URL reference
+  background-image: url('../../../images/background.jpg')
 }
