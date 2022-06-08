@@ -1,4 +1,5 @@
 import React from 'react';
+import '../../../App.css';
 
 export default function Skills() {
   return (
@@ -14,7 +15,7 @@ export default function Skills() {
               <div className="progress grey lighten-1">
                 <div
                   className="determinate blue"
-                  style={{ width: '80%' }}
+                  style={{ width: '80%' , height: 20}}
                 ></div>
               </div>
             </div>

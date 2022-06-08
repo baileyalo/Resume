@@ -10,7 +10,7 @@ export default function About() {
           </h6>
           <p className="black-text">
           A dedicated and result-oriented professional possessing knowledge of troubleshooting and programming,
-          seeking a position as a Blockchain Engineer, 
+          seeking a position as a Blockchain Engineer, FullStack Developer
           in efforts to make the most of my coding and troubleshooting skills and leverage the goals and ambitions of the organization.
           </p>
         </div>
