@@ -33,12 +33,12 @@ export default function Educations() {
 								
 							</tr>
 							<tr>
-								<td>Licensed Secondary School Teacher - Jamaica</td>
+								<td>Licensed Secondary School Teacher - Kingston, Jamaica</td>
 								<td>September 2018</td>
 							
 							</tr>
 							<tr>
-								<td>Licensed Secondary School Teacher - Ontario</td>
+								<td>Licensed Secondary School Teacher - Ontario, Canada</td>
 								<td>September 2021</td>
 							
 							</tr>
